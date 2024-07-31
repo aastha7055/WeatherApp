@@ -35,7 +35,7 @@ weatherApp/
    - Type the city name into the input field to check the weather.
 
 2. **Submit:**
-   - Click the "Submit" button to fetch the weather data.
+   - Click the "SearchIcon" button to fetch the weather data.
 
 3. **View Weather Data:**
    - The app displays the current temperature, weather description, and an icon for the weather condition.
