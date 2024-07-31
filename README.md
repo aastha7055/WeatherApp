@@ -15,18 +15,6 @@ The Weather App is a responsive web application designed to provide real-time we
 - Displays temperature, weather description, and weather icons
 - Error handling for invalid city names and API issues
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- OpenWeatherMap API
-
-## Features
-- Responsive design for various devices
-- Real-time weather data retrieval
-- Displays temperature, weather description, and weather icons
-- Error handling for invalid city names and API issues
-
 ## File Structure
 weather-app/
 │
@@ -63,7 +51,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Instructions to Run the App
 1. **Download the ZIP File:**
-   - Download the `weather-app.zip` file from the provided source.
+   - Download the `weatherApp.zip` file from the provided source.
 
 2. **Extract the ZIP File:**
    - Extract the contents to your desired location.
