@@ -15,17 +15,6 @@ The Weather App is a responsive web application designed to provide real-time we
 - Displays temperature, weather description, and weather icons
 - Error handling for invalid city names and API issues
 
-## File Structure
-
-Here's a properly organized README.md file for your Weather App project:
-
-markdown
-Copy code
-# Weather App
-
-## Description
-The Weather App is a responsive web application designed to provide real-time weather conditions for any city. Developed using HTML, CSS, and JavaScript, this app utilizes the OpenWeatherMap API to fetch and display weather data. Features include temperature display, weather descriptions, and corresponding icons, along with robust error handling for invalid city names and API issues.
-
 ## Technologies Used
 - HTML
 - CSS
