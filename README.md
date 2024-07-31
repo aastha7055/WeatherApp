@@ -16,7 +16,7 @@ The Weather App is a responsive web application designed to provide real-time we
 - Error handling for invalid city names and API issues
 
 ## File Structure
-weather-app/
+weatherApp/
 │
 ├── index.html # Main HTML file
 ├── styles.css # CSS file for styling
